@@ -1,0 +1,33 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background: #222;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: rgb(194, 195, 235);
+  text-decoration: none;
+  margin: 0 10px;
+  background: rgb(24, 22, 22);
+}
+
+section {
+  padding: 10px;
+  background: #f0f0f0;
+  margin: 20px;
+  text-decoration: none;
+}
+
+aside {
+  background: #f0f0f0;
+  padding: 15px;
+  margin: 20px;
+  border-left: 8px solid #b3b2b2;
+}
