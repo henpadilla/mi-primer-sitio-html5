@@ -11,9 +11,9 @@ con etiquetas con significado propio, lo que ayuda a:
 
 Algunas de las más importantes:
 
-  "<header>" → Encabezado de la página.
+  "<header >" → Encabezado de la página.
     
-  "<nav>" → Menú de navegación.
+  "<nav >" → Menú de navegación.
     
   "<main>" → Contenido principal.
     
