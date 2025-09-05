@@ -11,16 +11,16 @@ con etiquetas con significado propio, lo que ayuda a:
 
 Algunas de las más importantes:
 
-<header> → Encabezado de la página.
-  
-<nav> → Menú de navegación.
-  
-<main> → Contenido principal.
-  
-<section> → Secciones de contenido.
-  
-<article> → Artículos o bloques de información.
-  
-<aside> → Información lateral (ej: enlaces, publicidad).
-  
-<footer> → Pie de página.
+  <header> → Encabezado de la página.
+    
+  <nav> → Menú de navegación.
+    
+  <main> → Contenido principal.
+    
+  <section> → Secciones de contenido.
+    
+  <article> → Artículos o bloques de información.
+    
+  <aside> → Información lateral (ej: enlaces, publicidad).
+    
+  <footer> → Pie de página.
